@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=ReversePolishCalculator
+comment0.text=\r\n\ Handin\ done\ by\:\r\n\ \ \ Freja\ \u00D8sterb\u00F8g,\ 201809189\r\n\ \ \ Carl\ Uls\u00F8e,\ 201906950\r\n\ \r\n\ Contributions\:\r\n\ \ \ This\ exersice\ was\ discussed\ together\ and\ written\ by\ Carl\r\n
+comment1.params=n
+comment1.target=void\ push(int)
+comment2.params=
+comment2.target=void\ plus()
+comment3.params=
+comment3.target=void\ minus()
+comment4.params=
+comment4.target=void\ times()
+comment5.params=
+comment5.target=int\ read()
+numComments=6

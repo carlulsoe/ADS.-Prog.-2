@@ -1,0 +1,7 @@
+rpn
+ads19-da2-09
+ohngath7ag
+
+This file contains the Task ID, username and password
+last used when submitting a solution.
+This file is used when you call Submit.submit() with no arguments.
